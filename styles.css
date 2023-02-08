@@ -36,6 +36,13 @@ body {
 }
 
 .notes .main {
+    display: none;
+    height: 100%;
+    width: 100%;
+}
+
+.notes textarea {
+    display: none;
     outline: none;
     font-family: inherit;
     border: none;
